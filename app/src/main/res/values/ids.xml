@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="xhoanaText" type="id" />
+    <item name="wsu" type="id"/>
+    <item name="ou" type="id">ou</item>
+    <item name="osu" type="id" />
+    <item name="ku" type="id">ku</item>
+    <item name="mit" type="id">mit</item>
+    <item name="cuny" type="id">cuny</item>
+    <item name="nyu" type="id">nyu</item>
+    <item name="opsu" type="id">opsu</item>
+    <item name="rice" type="id">rice</item>
+    <item name="brown" type="id">brown</item>
+    <item name="isu" type="id">isu</item>
+    <item name="duke" type="id">duke</item>
+    <item name="utulsa" type="id">utulsa</item>
+    <item name="bc" type="id">bc</item>
+    <item name="suny" type="id">suny</item>
+</resources>
